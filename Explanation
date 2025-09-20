@@ -1,0 +1,36 @@
+Review on Automatic Soil Irrigation System
+Aim
+
+The main aim of the project Automatic Soil Irrigation System is to design a low-cost, efficient, and automated solution for watering plants. The system eliminates the need for manual irrigation and helps conserve water by supplying only the required amount based on soil moisture content.
+
+Working Principle
+
+The project is based on the use of a soil moisture sensor interfaced with an Arduino microcontroller. The sensor measures the moisture content of the soil and sends analog values to the controller. These values are processed, and the system decides whether irrigation is required.
+When the soil moisture level is below the set threshold, the microcontroller activates a water pump connected to a relay.
+When the soil moisture level is sufficient, the pump is automatically switched off.
+Thus, the system maintains an optimum moisture level in the soil.
+
+
+Components Used
+
+Arduino microcontroller
+Soil moisture sensor
+Relay module and water pump
+Power supply and connecting wires
+
+Advantages
+
+Water Conservation – Prevents over-irrigation and reduces water wastage.
+Automation – Eliminates the need for human monitoring.
+Low Cost and Simple Design – Affordable and easy to implement for farmers.
+Improved Crop Growth – Maintains optimum soil moisture, leading to better plant health.
+Scalability – Can be extended to larger agricultural fields with multiple sensors.
+
+Applications
+
+Smart agriculture and farming
+Household gardening and nurseries
+Greenhouses and plantations
+Conclusion
+
+The Automatic Soil Irrigation System is an innovative project that combines embedded systems and sensor technology to solve a real-world agricultural challenge. It promotes sustainable farming by conserving water and ensuring healthy crop growth with minimal human effort. Presenting this project at Scinova provided us with valuable exposure and practical knowledge, and it motivated us to further explore the role of technology in smart farming and environmental sustainability.
